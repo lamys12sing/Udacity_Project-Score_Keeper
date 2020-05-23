@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="team_a">A隊</string>
+    <string name="score">得分：</string>
+    <string name="team_b">B隊</string>
+    <string name="reset">重置</string>
+    <string name="foul">犯規：</string>
+    <string name="input_in_mins">輸入分鍾</string>
+    <string name="count_down">計時</string>
+    <string name="pause">暫停</string>
+    <string name="reset_time">重設時間</string>
+</resources>

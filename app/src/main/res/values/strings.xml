@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="team_a">Team A</string>
+    <string name="score">Score：</string>
+    <string name="team_b">Team B</string>
+    <string name="reset">RESET</string>
+    <string name="foul">Foul：</string>
+    <string name="input_in_mins">input mins</string>
+    <string name="count_down">Count Down</string>
+    <string name="pause">PAUSE</string>
+    <string name="reset_time">reset time</string>
+</resources>
